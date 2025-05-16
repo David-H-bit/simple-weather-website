@@ -1,1 +1,2 @@
 # simple-weather-website
+This is a website that used the OpenWeatherMap API to get data and we use javascript to display the data of a city (temperature, humidity, icon to display weather,...) on the webpage.
